@@ -1,10 +1,10 @@
 # CarouselEffect
 
-# It is slideshow for cycling through series of content
+## It is slideshow for cycling through series of content
 
-# In this project I have implemented two type of Carousal [HorizontalMultiBrowseCarousel] and 
-# [HorizontalUncontainedCarousel] 
+## In this project I have implemented two type of Carousal [HorizontalMultiBrowseCarousel] and 
+## [HorizontalUncontainedCarousel] 
 
-# Recording for [HorizontalMultiBrowseCarousel] :
+## Recording for [HorizontalMultiBrowseCarousel] :
 
-# Recording for [HorizontalUncontainedCarousel]
+## Recording for [HorizontalUncontainedCarousel]
